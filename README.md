@@ -1,18 +1,3 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "![UCA](http://caillau.perso.math.cnrs.fr/logo-uca.png)\n",
-    "## L2 MIASHS - ANDE\n",
-    "# Projet\n",
-    "\n",
-    "[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbcaillau/ande/master?urlpath=lab/tree/proj/proj.ipynb)\n",
-    "\n",
-    "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jbcaillau/ande/blob/master/proj/proj.ipynb)"
-   ]
-  },
   {
    "cell_type": "markdown",
    "metadata": {},
